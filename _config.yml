@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+  # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -17,7 +17,7 @@
 ## => Site Settings
 ##############################
 text_skin: ##############################
- # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme:   forest   # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme:   tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
@@ -37,9 +37,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : # "person" (default), "organization"
   name      : 宋恩磊
-  url       :
+  url       : https://obohe.com/i/2021/10/21/zhqu0e.jpeg
+
   avatar    : # path or url of avatar image (square)
-  bio       :   bro 
+  bio       :   我是一个老二次元，平时非常喜欢看动漫，并且玩各种游戏比如moba，fps，音游，steam3a，手游阴阳师王者原神之类的。什么都会玩一点，但是不太精，以后会在博客上上传我的生活经历，和一些游戏攻略和心得之类的。多多关照了！
   email     :  3178946186@qq.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
