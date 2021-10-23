@@ -34,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 
 ## => Author and Social
 ##############################
-author:
+author:     宋恩磊
   type      : # "person" (default), "organization"
   name      : 宋恩磊
   url       : https://obohe.com/i/2021/10/21/zhqu0e.jpeg
@@ -121,7 +121,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: false #  fault (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
